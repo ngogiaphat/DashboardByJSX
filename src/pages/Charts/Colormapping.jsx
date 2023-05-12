@@ -31,5 +31,4 @@ const ColorMapping = () => {
     </div>
   );
 };
-
 export default ColorMapping;
