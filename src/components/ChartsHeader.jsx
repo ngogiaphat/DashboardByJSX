@@ -1,5 +1,5 @@
 import React from 'react';
-const ChartsHeader = ({ category, title }) => (
+const ChartsHeader = ({category, title}) => (
   <div className = " mb-10">
     <div>
       <p className = "text-lg text-gray-400">Chart</p>
